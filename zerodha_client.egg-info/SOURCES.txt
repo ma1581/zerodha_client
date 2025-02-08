@@ -1,5 +1,4 @@
 README.md
-README.rst
 setup.py
 zerodha_client/__init__.py
 zerodha_client/main.py

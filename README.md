@@ -62,5 +62,5 @@ client.close()
 This tool is not affiliated with or endorsed by Zerodha. Use it responsibly and at your own risk.
 
 ## Reference
-- Git: 
+- Git: https://github.com/ma1581/zerodha_client
 - PyPi: https://pypi.org/project/zerodha-client
